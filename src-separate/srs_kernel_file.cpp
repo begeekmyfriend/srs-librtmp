@@ -27,6 +27,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #ifndef _WIN32
 #include <unistd.h>
 #include <sys/uio.h>
+#include <sys/stat.h>
 #endif
 
 #include <fcntl.h>
